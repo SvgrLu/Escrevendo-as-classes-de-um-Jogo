@@ -21,7 +21,7 @@ class Hero{
                 break
         }
 
-        console.log(`O ${this.tipo} atacou usando ${ataque}`)
+        console.log(`- O ${this.tipo} atacou usando ${ataque}`)
     }
 }
 
